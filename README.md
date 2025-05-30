@@ -11,6 +11,9 @@ Users interact with the system by entering a **custom natural language prompt** 
 Immediately following the story generation, the text is passed to a **Text-to-Speech (TTS) engine** (using `gtts`) to create an **audio version** of the narration. Both the generated story text and its audio narration are then displayed within the Streamlit application, where users can **listen to the story** and **download** both the text and the audio files.
 
 The project demonstrates multimodal integration by combining text generation and audio output within a user-friendly interface, aiming to provide a creative and accessible storytelling experience.
+![PHOTO-2025-05-29-20-18-18](https://github.com/user-attachments/assets/9f7ac7b2-b137-4c32-a62c-f714468a83b8)
+![PHOTO-2025-05-29-20-18-40](https://github.com/user-attachments/assets/86484d65-4b0c-4cb6-a13f-7a40942241a2)
+
 
 ## Features
 
