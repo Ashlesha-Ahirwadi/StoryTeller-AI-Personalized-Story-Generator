@@ -120,10 +120,3 @@ GENAI_2/
 - **TTS:** Explore different TTS libraries or voices.
 - **GUI:** Enhance the Streamlit interface with more features or a different design.
 
-## Contributing
-
-(Add information on how others can contribute if this is an open-source project.)
-
-## License
-
-(Specify the project license, e.g., MIT, Apache 2.0) 
